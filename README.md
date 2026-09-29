@@ -1,5 +1,3 @@
-# student-dropout-prediction
-Machine learning project for predicting student dropout risk using Logistic Regression and a Gradio application.
 
 # Student Dropout Prediction
 
