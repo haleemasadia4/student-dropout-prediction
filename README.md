@@ -147,11 +147,11 @@ Gradio Application
 
 Add the actual evaluation results here:
 
-Accuracy : 0.8859
-Precision: 0.8894
-Recall   : 0.7359
-F1 Score : 0.8054
-ROC-AUC  : 0.9266
+- Accuracy : 0.8859
+- Precision: 0.8894
+- Recall   : 0.7359
+- F1 Score : 0.8054
+- ROC-AUC  : 0.9266
 
 Add the confusion matrix and screenshots of the prediction application.
 
